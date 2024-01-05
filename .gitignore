@@ -1,0 +1,43 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+/angular-market-place/dist
+/angular-market-place/tmp
+/angular-market-place/out-tsc
+/angular-market-place/bazel-out
+
+# Node
+/backend/node_modules
+/angular-market-place/node_modules
+/angular-market-place/npm-debug.log
+/angular-market-place/yarn-error.log
+
+# IDEs and editors
+/angular-market-place/.idea/
+/angular-market-place/.project
+/angular-market-place/.classpath
+/angular-market-place/.c9/
+/angular-market-place/*.launch
+/angular-market-place/.settings/
+/angular-market-place/*.sublime-workspace
+
+# Visual Studio Code
+/angular-market-place/.vscode/*
+/angular-market-place/!.vscode/settings.json
+/angular-market-place/!.vscode/tasks.json
+/angular-market-place/!.vscode/launch.json
+/angular-market-place/!.vscode/extensions.json
+/angular-market-place/.history/*
+
+# Miscellaneous
+/angular-market-place/.angular/cache
+/angular-market-place/.sass-cache/
+/angular-market-place/connect.lock
+/angular-market-place/coverage
+/angular-market-place/libpeerconnection.log
+/angular-market-place/testem.log
+/angular-market-place/typings
+
+# System files
+/angular-market-place/.DS_Store
+/angular-market-place/Thumbs.db
